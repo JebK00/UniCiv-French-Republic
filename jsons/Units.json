@@ -9,7 +9,7 @@
 		"cost": 425,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": [""],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	}
