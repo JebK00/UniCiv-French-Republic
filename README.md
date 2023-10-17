@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# French-Republic
 
-An example mod for Unciv, that adds one new Civilization.
+A mod for Unciv, that adds the French Republic.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+It's a late game version of France.
