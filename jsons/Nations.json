@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "French Republic",
+		"leaderName": "Léon Blum",
+		"adjective": ["french"],
+		"startBias": ["hills"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Liberté Egalité Fraternité",
+		"startIntroPart2": "After the Great War, France was considered a very powerful nation. Léon Blum and the popular front changed France radically.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "France diplomates sent you a declaration of war.",
+		"attacked": "France will not go quietly.",
+		"defeated": "We must capitulate, but the fight will never end.",
+		"introduction": "We are the French Republic, birthplace of the Human Rights.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Bonjour",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Que voulez-vous?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "With this Peace Treaty, it's peace for or time.",
+		"tradeRequest": "We offer you some Bordeau wine and some Savoie cheese in a trade agreement.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [2,0,138],
+		"innerColor": [138,0,0],
+		"unique": "MATIGNON_AGREEMENT",
+		"cities": ["Paris","Lille","Lyon","Marseille","Bordeaux","Nice","Brest","Rennes","Perpignan",
+			"Montpellier","Châteauroux","Chambéry","Grenoble","Bastia","Angers","Lens","Toulouse","Strasbourg","Nîmes",
+			"Avignon","Caen","Clermont-Ferrand","Reims","Compiégne","Nancy","Le Havre","Saint-Nazaire","Nantes","Bourges",
+			"Toulon","Ajaccio","Kourou","Dunkerke","Orléans","Bourge"]
 	}
 ]
