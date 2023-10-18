@@ -9,7 +9,11 @@
 		"cost": 425,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
+		"replacementTextForUniques": "Much more powerful than the basic counterpart. The tank is more expensive and is slower.",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
+		"attackSound": "tankshot",
+		"civilopediaText": [
+			{"text": "One of the most powerful tank made during WW2. Designed to support infantry during battle."}
+		]
 	}
 ]
