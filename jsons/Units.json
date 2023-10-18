@@ -6,7 +6,7 @@
 		"replaces": "Tank",
 		"movement": 3,
 		"strength": 110,
-		"cost": 425,
+		"cost": 400,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"replacementTextForUniques": "Much more powerful than the basic counterpart. The tank is more expensive and is slower.",
