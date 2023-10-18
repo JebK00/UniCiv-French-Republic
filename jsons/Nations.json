@@ -27,8 +27,8 @@
 		"afterPeace": "With this Peace Treaty, it's peace for or time.",
 		"tradeRequest": "We offer you some Bordeau wine and some Savoie cheese in a trade agreement.",
 
-		"outerColor": [2,0,138],
-		"innerColor": [138,0,0],
+		"outerColor": [189,183,107],
+		"innerColor": [240,230,140],
 		"unique": "Matignon Agreement",
 		"cities": ["Paris","Lille","Lyon","Marseille","Bordeaux","Nice","Brest","Rennes","Perpignan",
 			"Montpellier","Châteauroux","Chambéry","Grenoble","Bastia","Angers","Lens","Toulouse","Strasbourg","Nîmes",
