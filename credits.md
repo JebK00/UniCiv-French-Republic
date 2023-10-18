@@ -10,3 +10,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 
 The icon is from:
 * Larea from the Noun Project
+* Rifle by Shovy Rahman from https://thenounproject.com/browse/icons/term/rifle/ Noun Project (CC BY 3.0)
