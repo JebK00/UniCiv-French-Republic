@@ -15,10 +15,11 @@
 	{
 		"name": "Saint-Cyr",
 		"replaces": "Military Academy",
+		"uniqueTo": "French Republic",
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	}
 ]
