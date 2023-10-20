@@ -28,8 +28,8 @@
 
 		"outerColor": [138,133,73],
 		"innerColor": [240,230,140],
-		"uniqueName": "Matignon Agreement",
-		"uniques": ["[+5 Production][in all cities]"],
+		"uniqueName": "Liberté Egalité Fraternité",
+		"uniques": ["Starts with [Liberty] adopted and [+2 Culture] [in all cities]"],
 		"cities": ["Paris","Lille","Lyon","Marseille","Bordeaux","Nice","Brest","Rennes","Perpignan",
 			"Montpellier","Châteauroux","Chambéry","Grenoble","Bastia","Angers","Lens","Toulouse","Strasbourg","Nîmes",
 			"Avignon","Caen","Clermont-Ferrand","Reims","Compiégne","Nancy","Le Havre","Saint-Nazaire","Nantes","Bourges",
