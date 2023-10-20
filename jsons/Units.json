@@ -19,6 +19,7 @@
 	{
 		"name": "Class Richelieu",
 		"unitType": "Ranged Water",
+		"uniqueTo": "French Republic",
 		"movement": 5,
 		"strength": 85,
 		"rangedStrength": 85,
