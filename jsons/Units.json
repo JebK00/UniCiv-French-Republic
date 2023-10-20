@@ -16,4 +16,22 @@
 			{"text": "One of the most powerful tank made during WW2. Designed to support infantry during battle."}
 		]
 	}
+	{
+		"name": "Class Richelieu",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 4,
+		"cost": 400,
+		"requiredResource": "Oil",
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"replacementTextForUniques": "The Richelieu Class Battleship is powerful ship capable of destroying the most armoured opponents.",
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns",
+		"civilopediaText": [
+			{"text": "4 ship were built in the Richelieu Class, they were the best battleship created before the war."}
+		]
+	},
 ]
